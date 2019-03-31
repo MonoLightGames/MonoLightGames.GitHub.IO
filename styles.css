@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	vertical-align: top;
+	font-size: 0;
+}
+
+body {
+	background: #1e2854;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #d2d4da;
+}
+
+div {
+	margin: auto;
+	padding: 24px;
+	max-width: 800px;
+}
+
+img {
+	width: 128px;
+}
+
+span {
+	display: block;
+	font-size: 14px;
+	text-align: right;
+}
+
+p {
+	margin: 32px 0;
+	font-size: 18px;
+	line-height: 28px;
+}

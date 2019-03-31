@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+	<defs>
+		<style>
+			.a {
+				fill: #1e2854;
+			}
+
+			.b {
+				fill: #fdb830;
+			}
+		</style>
+	</defs>
+	<title>logo</title>
+	<rect class="a" width="500" height="500" />
+	<polygon class="b" points="46 363.5 114 363.5 114 305.5 46 363.5" />
+	<polygon class="b" points="114 136.5 216 363.5 239 305.5 163 136.5 114 136.5" />
+	<rect class="b" x="308" y="136.5" width="42" height="227" />
+	<polygon class="b" points="388 363.5 454 305.5 454 363.5 388 363.5" />
+</svg>
